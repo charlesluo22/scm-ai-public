@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this notebook, please cite it as below."
+type: software
+title: "Reinforcement Learning: A First Look"
+abstract: >-
+  A companion extra to Supply Chain AI in Python, written for
+  scmaiteaching.org; it is not part of the book. A Jupyter notebook with
+  two small reinforcement-learning experiments: three slot machines, and a
+  robot in a grid. The MIT License covers the notebook's code cells only,
+  not its explanatory text.
+authors:
+  - family-names: Luo
+    given-names: "Charles C."
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/charlesluo22/scm-ai-public"
+url: "https://scmaiteaching.org"
+keywords:
+  - reinforcement learning
+  - multi-armed bandit
+  - Q-learning
+  - teaching

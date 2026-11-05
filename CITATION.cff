@@ -11,6 +11,7 @@ abstract: >-
 authors:
   - family-names: Luo
     given-names: "Charles C."
+    orcid: "https://orcid.org/0000-0002-3641-0787"
 version: 1.0.0
 license: MIT
 repository-code: "https://github.com/charlesluo22/scm-ai-public"

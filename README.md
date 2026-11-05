@@ -2,7 +2,7 @@
 
 A companion extra to *Supply Chain AI in Python*, written for [scmaiteaching.org](https://scmaiteaching.org). It is not part of the book.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/charlesluo22/scm-ai-public/blob/v1.0.0/RL_Introduction_for_Students.ipynb)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23968091.svg)](https://doi.org/10.5281/zenodo.23968091) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/charlesluo22/scm-ai-public/blob/v1.0.0/RL_Introduction_for_Students.ipynb)
 
 Reinforcement learning (RL) is learning to make a sequence of decisions by trial and error, guided only by a score (a reward), not by examples of the right answer.
 
@@ -24,7 +24,9 @@ The code cells of the notebook are under the MIT License (`LICENSE`). The licens
 
 ## How to cite
 
-See `CITATION.cff`.
+Luo, C. C. (2026). *Reinforcement Learning: A First Look* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23968091
+
+That DOI covers all versions and always leads to the latest. Version 1.0.0 alone is https://doi.org/10.5281/zenodo.23968092. The details are in `CITATION.cff`.
 
 ## Contact
 

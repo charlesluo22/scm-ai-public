@@ -13,6 +13,15 @@ authors:
     given-names: "Charles C."
     orcid: "https://orcid.org/0000-0002-3641-0787"
 version: 1.0.0
+date-released: 2026-11-05
+doi: 10.5281/zenodo.23968091
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23968091
+    description: "The concept DOI: all versions"
+  - type: doi
+    value: 10.5281/zenodo.23968092
+    description: "Version 1.0.0"
 license: MIT
 repository-code: "https://github.com/charlesluo22/scm-ai-public"
 url: "https://scmaiteaching.org"

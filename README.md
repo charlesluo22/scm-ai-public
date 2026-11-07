@@ -24,7 +24,7 @@ The code cells of the notebook are under the MIT License (`LICENSE`). The licens
 
 ## How to cite
 
-Luo, C. C. (2026). *Reinforcement Learning: A First Look* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23968091
+Luo, C. C. (2026). *Reinforcement Learning: A First Look* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23968092
 
 That DOI covers all versions and always leads to the latest. Version 1.0.0 alone is https://doi.org/10.5281/zenodo.23968092. The details are in `CITATION.cff`.
 
